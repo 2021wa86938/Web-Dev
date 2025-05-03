@@ -1,1 +1,1 @@
-console.log('Version 1 - JavaScript');
+console.log('Version 2 - JavaScript');
